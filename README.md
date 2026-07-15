@@ -51,4 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
+## Array
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
