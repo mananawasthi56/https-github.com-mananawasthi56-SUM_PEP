@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
