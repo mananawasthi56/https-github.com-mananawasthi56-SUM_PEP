@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0997-find-the-town-judge) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0997-find-the-town-judge) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
