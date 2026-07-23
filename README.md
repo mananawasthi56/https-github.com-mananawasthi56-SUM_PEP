@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0997-find-the-town-judge) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
