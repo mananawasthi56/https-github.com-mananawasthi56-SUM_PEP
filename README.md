@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0997-find-the-town-judge) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -75,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
