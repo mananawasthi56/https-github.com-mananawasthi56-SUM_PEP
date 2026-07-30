@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
@@ -48,16 +49,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mananawasthi56/https-github.com-mananawasthi56-SUM_PEP/tree/master/3898-find-the-degree-of-each-vertex) |
